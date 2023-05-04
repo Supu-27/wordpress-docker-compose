@@ -21,17 +21,29 @@ To use this project, follow these steps:
 
 2. Navigate to the project directory:
 
-,,,
+```
 cd wordpress-docker-compose
-,,,
+```
 
 3. Start the containers:
 
-'''
+```
 docker-compose up -d
-,,,
+```
 
-4. Visit http://54.160.199.0 in your web browser to access the WordPress installation page. Follow the on-screen instructions to complete the installation process
+4. Visit http://54.160.199.0 in your web browser to access the WordPress installation page. Follow the on-screen instructions to complete the installation process.
+
+
+```
+![image](https://user-images.githubusercontent.com/125067454/236143997-6dc56f60-6481-4019-826c-9b61cf192ef6.png)
+```
+
+```
+![image](https://user-images.githubusercontent.com/125067454/236144192-bfe19d5e-e0e5-4b95-85a0-525cef35cc39.png)
+```
+
+
+
 
 5. Once you have completed the installation process, you can start customizing your WordPress website by installing themes and plugins.
 
